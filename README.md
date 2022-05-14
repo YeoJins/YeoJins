@@ -1,5 +1,5 @@
 
-## YeoJin Song :hamster:
+## YeoJin Song
 Hello! I'm undergraduate student in ewha womans university. I'm double majoring in _Mechanical and Biomedical Engineering_ and _Statistics_.  
 I'm interested in Deep learning, NLP, bio-informatics. :fire:
 
