@@ -7,7 +7,7 @@ I'm interested in Deep learning, NLP, bio-informatics. :fire:
 
 
 
-### Tech Stack
+### Tech Stack :muscle:
 
 Techs that I've used at least once  
 
