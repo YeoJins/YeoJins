@@ -1,8 +1,8 @@
 
 ## YeoJin Song
 Hello! I'm undergraduate student in ewha womans university. I'm double majoring in _Mechanical and Biomedical Engineering_ and _Statistics_.  
-I'm interested in Deep learning, NLP, bio-informatics. :fire:
-
+I'm interested in Deep learning, NLP, bio-informatics. :fire:  
+Email address : syj1031@ewhain.net
 
 
 
