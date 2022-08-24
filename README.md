@@ -21,5 +21,5 @@ I want to learn
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&show_icons=true&locale=en&layout=compact" alt="<YeoJins>" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
