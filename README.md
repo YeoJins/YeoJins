@@ -9,7 +9,8 @@ Contect : syj1031@ewhain.net
 ### Experience :runner:
 `Euron` 3rd CV team member `2022.09~`   
 `Ewha Dna Lab` CV Modeling team member `2022.06~`  
-`Ewha Computer Club` 47th member `2022.03~`
+`Ewha Computer Club` 47th member `2022.03~`  
+`GDSC Ewha` 4th member `2022.09~`
 
 ### Tech Stack :muscle:
 
