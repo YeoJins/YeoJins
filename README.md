@@ -1,5 +1,5 @@
 
-## YeoJin Song
+## Yeojin, Song
 Hello! I'm undergraduate student in ewha womans university.  
 I'm double majoring in  `MBE` (_Mechanical and Biomedical Engineering_) and `Statistics`.  
 I'm interested in Deep learning, Computer Vision. :fire:  
