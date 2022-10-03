@@ -32,6 +32,6 @@ I want to learn
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeoJins&show_icons=true&theme=vue)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeoJins&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
