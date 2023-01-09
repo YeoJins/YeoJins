@@ -3,12 +3,12 @@
 Hello! I'm undergraduate student in ewha womans university.  
 I'm double majoring in  `MBE` (_Mechanical and Biomedical Engineering_) and `Statistics`.  
 I'm interested in Deep learning, Computer Vision. :fire:  
-Contect : syj1031@ewhain.net
+Contact : syj1031@ewhain.net
 
 ***
 ### Experience :runner:
 `Euron` 3rd CV team member `2022.09~`   
-`Ewha Dna Lab` CV Modeling team member `2022.06~`  
+`Ewha Dna Lab` CV Modeling team member `2022.06 ~ 2023.02`  
 `Ewha Computer Club` 47th member `2022.03~`  
 `GDSC Ewha` 4th member `2022.09~`
 
