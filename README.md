@@ -1,16 +1,17 @@
 
 ## Yeojin, Song
-Hello! I'm undergraduate student in ewha womans university.  
+Hello! I'm undergraduate student in Ewha Womans University.  
 I'm double majoring in  `MBE` (_Mechanical and Biomedical Engineering_) and `Statistics`.  
 I'm interested in Deep learning, Computer Vision. :fire:  
-Contact : syj1031@ewhain.net
+Contact me : syj1031@ewhain.net or www.linkedin.com/in/yeojin-song
 
 ***
 ### Experience :runner:
-`Euron` 3rd CV team member `2022.09~`   
+`Euron` 3rd CV team member `2022.09 ~ 2023.03`   
 `Ewha Dna Lab` CV Modeling team member `2022.06 ~ 2023.02`  
 `Ewha Computer Club` 47th member `2022.03~`  
-`GDSC Ewha` 4th member `2022.09~`
+`GDSC Ewha` 4th member `2022.09 ~ 2023.03`  
+`BOAZ` 20th Data Analysis team member `2023.02~`
 
 ### Tech Stack :muscle:
 
