@@ -9,7 +9,7 @@ Contact me : syj1031@ewhain.net or www.linkedin.com/in/yeojin-song
 ### Experience :runner:
 `Euron` 3rd CV team member `2022.09 ~ 2023.03`   
 `Ewha Dna Lab` CV Modeling team member `2022.06 ~ 2023.02`  
-`Ewha Computer Club` 47th member `2022.03~`  
+`Ewha Computer Club` 47th member `2022.03 ~ 2023.02`  
 `GDSC Ewha` 4th member `2022.09 ~ 2023.03`  
 `BOAZ` 20th Data Analysis team member `2023.02~`
 
