@@ -4,7 +4,7 @@ Hello! I'm undergraduate student interested in AI.
    
 I'm interested in Deep learning, Computer Vision. :fire:  
   
-Contact me : [mail](syj1031@ewhain.net) or [linkedin](www.linkedin.com/in/yeojin-song)
+Contact me : syj1031@ewhain.net or www.linkedin.com/in/yeojin-song
 
 ***
 ### Education 🧑‍🎓
