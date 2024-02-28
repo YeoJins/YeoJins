@@ -26,6 +26,8 @@ Contact me : syj1031@ewhain.net or www.linkedin.com/in/yeojin-song
   
 `BOAZ` 20th Data Analysis team member `2023.02~ 2024.02`
 
+`EWHA PAI LAB` Undergraduate researcher `2023.12 ~ current`
+
 ### Tech Stack :muscle:
 
 Techs that I've used at least once  
