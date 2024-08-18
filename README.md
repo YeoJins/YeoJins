@@ -26,6 +26,8 @@ Contact me : syj1031@ewhain.net or www.linkedin.com/in/yeojin-song
   
 `BOAZ` 20th Data Analysis team member `2023.02~ 2024.02`
 
+### Research 📝  
+
 `EWHA PAI LAB` Undergraduate researcher `2023.12 ~ current`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeoJins&show_icons=true&theme=vue)
