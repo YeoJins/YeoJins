@@ -11,9 +11,9 @@ Contact me : syj1031@ewhain.net or www.linkedin.com/in/yeojin-song
 
 **Ewha Womans University, seoul, Korea**  
   
-*Bachelor of Engineering* in Mechanical and Biomedical Engineering `2021 ~ 2026`   
+*Bachelor of Engineering* in Mechanical and Biomedical Engineering `2021 ~ 2026` (Expected)  
   
-*Bachelor of Science* in Statistics `2022 ~ 2026`
+*Bachelor of Science* in Statistics `2022 ~ 2026` (Expected)
 
 ### Experience :runner:
 `Euron` 3rd CV team member `2022.09 ~ 2023.03` 
