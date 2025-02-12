@@ -28,7 +28,7 @@ Contact me : syj1031@ewhain.net or www.linkedin.com/in/yeojin-song
 
 ### Research 📝  
 
-`EWHA PAI LAB` Undergraduate researcher `2023.12 ~ current`
+`EWHA PAI LAB` Undergraduate researcher `2023.12 ~ present`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeoJins&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
